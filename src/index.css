@@ -1,0 +1,8 @@
+/* :root{
+  background-color: black;
+  color:white;
+} */
+
+.box-shadow {
+  box-sizing: 0px 5px 5px rgba(0.0.0.2);
+}
